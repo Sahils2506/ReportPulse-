@@ -1,0 +1,9 @@
+streamlit
+# ml model dependencies
+openai
+streamlit-chat
+llama-index
+tiktoken
+langchain
+pypdf
+redis

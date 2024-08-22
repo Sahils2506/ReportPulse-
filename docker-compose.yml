@@ -1,0 +1,13 @@
+version: '2.4'
+
+services:
+  streamlit:
+    build:
+      dockerfile: ./Dockerfile
+      context: ./
+    ports:
+      - '8501:8501'
+    volumes:
+      - './:/app/'
+  redis:
+    image: "redis:alpine"

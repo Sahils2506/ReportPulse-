@@ -1,0 +1,26 @@
+{
+    "English": {
+        "language_selection": "Select a language: ",
+        "title":"Report pulse -ChatBot",
+        "upload": "Upload your report here",
+        "ask_question": "Ask Question From your report ?",
+        "caution": "Disclaimer: ",
+        "caution_message": "The AI-generated medical reports provided here are for informational purposes only. Consult a healthcare professional for accurate diagnosis and advice.",
+        "scan": "Scanning Report",
+        "gen_summary": "Generating Summary",
+        "gen_report": "Generating Report",
+        "thinking" : "Thinking"
+    },
+    "Hindi": {
+        "language_selection": "भाषा चुनें: ",
+        "title":"रिपोर्ट पल्स -चैटबॉट",
+        "upload": "अपनी रिपोर्ट यहां अपलोड करें",
+        "ask_question": "अपनी रिपोर्ट से प्रश्न पूछें?",
+        "caution": "अस्वीकरण: ",
+        "caution_message": "यहां प्रदान की गई एआई-जेनरेट की गई मेडिकल रिपोर्ट केवल सूचनात्मक उद्देश्यों के लिए हैं। सटीक निदान और सलाह के लिए एक स्वास्थ्य देखभाल पेशेवर से परामर्श करें।",
+        "scan": "रिपोर्ट स्कैन कर रहा है",
+        "gen_summary": "सारांश उपार्जन कर रहा है",
+        "gen_report": "जनरेटिंग रिपोर्ट",
+        "thinking" : "सोच रहा है"
+    }
+}
